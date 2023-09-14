@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-trilha-explorer">Trilha Exporer</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-trilha-explorer">Trilha Foundations</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-o-que-aprendi">O que aprendi</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-executar">Como executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-licença">Licença</a>
@@ -12,7 +12,7 @@
 <img src="https://raw.githubusercontent.com/DuarteRenan/nlw-ia/main/public/cover.png"/>
 </p>
 
-## Trilha Fountations
+## Trilha Foundations
 
 Projeto construído durante o evento Next Level Week da Rocketseat.
 
